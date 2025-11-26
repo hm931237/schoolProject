@@ -1,0 +1,15 @@
+D:\test_mcp\School.Infrastructure\bin\Release\net8.0\School.Infrastructure.deps.json
+D:\test_mcp\School.Infrastructure\bin\Release\net8.0\School.Infrastructure.dll
+D:\test_mcp\School.Infrastructure\bin\Release\net8.0\School.Infrastructure.pdb
+D:\test_mcp\School.Infrastructure\bin\Release\net8.0\School.Domain.dll
+D:\test_mcp\School.Infrastructure\bin\Release\net8.0\School.Domain.pdb
+D:\test_mcp\School.Infrastructure\obj\Release\net8.0\School.Infrastructure.csproj.AssemblyReference.cache
+D:\test_mcp\School.Infrastructure\obj\Release\net8.0\School.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\test_mcp\School.Infrastructure\obj\Release\net8.0\School.Infrastructure.AssemblyInfoInputs.cache
+D:\test_mcp\School.Infrastructure\obj\Release\net8.0\School.Infrastructure.AssemblyInfo.cs
+D:\test_mcp\School.Infrastructure\obj\Release\net8.0\School.Infrastructure.csproj.CoreCompileInputs.cache
+D:\test_mcp\School.Infrastructure\obj\Release\net8.0\School.I.43F417B3.Up2Date
+D:\test_mcp\School.Infrastructure\obj\Release\net8.0\School.Infrastructure.dll
+D:\test_mcp\School.Infrastructure\obj\Release\net8.0\refint\School.Infrastructure.dll
+D:\test_mcp\School.Infrastructure\obj\Release\net8.0\School.Infrastructure.pdb
+D:\test_mcp\School.Infrastructure\obj\Release\net8.0\ref\School.Infrastructure.dll

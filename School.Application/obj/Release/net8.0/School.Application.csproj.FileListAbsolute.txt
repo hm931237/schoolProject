@@ -1,0 +1,15 @@
+D:\test_mcp\School.Application\bin\Release\net8.0\School.Application.deps.json
+D:\test_mcp\School.Application\bin\Release\net8.0\School.Application.dll
+D:\test_mcp\School.Application\bin\Release\net8.0\School.Application.pdb
+D:\test_mcp\School.Application\bin\Release\net8.0\School.Domain.dll
+D:\test_mcp\School.Application\bin\Release\net8.0\School.Domain.pdb
+D:\test_mcp\School.Application\obj\Release\net8.0\School.Application.csproj.AssemblyReference.cache
+D:\test_mcp\School.Application\obj\Release\net8.0\School.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\test_mcp\School.Application\obj\Release\net8.0\School.Application.AssemblyInfoInputs.cache
+D:\test_mcp\School.Application\obj\Release\net8.0\School.Application.AssemblyInfo.cs
+D:\test_mcp\School.Application\obj\Release\net8.0\School.Application.csproj.CoreCompileInputs.cache
+D:\test_mcp\School.Application\obj\Release\net8.0\School.A.0288516A.Up2Date
+D:\test_mcp\School.Application\obj\Release\net8.0\School.Application.dll
+D:\test_mcp\School.Application\obj\Release\net8.0\refint\School.Application.dll
+D:\test_mcp\School.Application\obj\Release\net8.0\School.Application.pdb
+D:\test_mcp\School.Application\obj\Release\net8.0\ref\School.Application.dll
